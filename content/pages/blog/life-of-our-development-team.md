@@ -2,10 +2,7 @@
 title: Salı
 slug: life-of-our-development-team
 date: '2025-03-04'
-excerpt: >-
-  Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
-  earum corporis id Quis esse est galisum officiis accusantium enim et
-  asperiores dolore.
+excerpt: ''
 featuredImage:
   url: /images/abstract-feature3.svg
   altText: Thumbnail
