@@ -1,7 +1,7 @@
 ---
 title: Pazartesi
 slug: top-ten-lessons-we-learned
-date: '2025-01-02'
+date: '2025-02-02'
 excerpt: ''
 featuredImage:
   altText: Thumbnail
