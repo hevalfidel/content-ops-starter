@@ -1,7 +1,7 @@
 ---
 title: Cuma
 slug: cuma
-date: '2023-03-05'
+date: ''
 excerpt: ''
 featuredImage:
   altText: Thumbnail
