@@ -1,16 +1,15 @@
 ---
 title: Blog
-slug: /blog
+slug: /eksik
 numOfPostsPerPage: 8
-enableSearch: true
+enableSearch: false
 topSections:
   - title:
       text: 1 haftalık eksik
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
@@ -52,4 +51,5 @@ postFeed:
   variant: three-col-grid
   colors: bg-light-fg-dark
   hoverEffect: move-up
+isDraft: false
 ---

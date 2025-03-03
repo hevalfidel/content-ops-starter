@@ -1,13 +1,9 @@
 ---
-title: A Day in the Life of Our Development Team
-slug: life-of-our-development-team
-date: '2025-01-15'
-excerpt: >-
-  Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
-  earum corporis id Quis esse est galisum officiis accusantium enim et
-  asperiores dolore.
+title: Pazartesi
+slug: pazartesi
+date: '2025-03-03'
+excerpt: ''
 featuredImage:
-  url: /images/abstract-feature3.svg
   altText: Thumbnail
   type: ImageBlock
   styles:
