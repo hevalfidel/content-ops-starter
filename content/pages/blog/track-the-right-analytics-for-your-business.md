@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Cuma
+title: Çarşamba
 slug: track-the-right-analytics-for-your-business
 date: '2023-03-07'
 excerpt: ''
