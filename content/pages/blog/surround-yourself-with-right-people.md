@@ -1,7 +1,7 @@
 ---
 title: Salı
 slug: surround-yourself-with-right-people
-date: '2024-03-05'
+date: '2024-03-04'
 excerpt: ''
 featuredImage:
   altText: Thumbnail
