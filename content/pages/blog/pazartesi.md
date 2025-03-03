@@ -35,7 +35,7 @@ Ders: Fransızca – Sinem Güvenir
 
 1.   [youtube.com/watch?v=7AaejeFJ5-U](https://www.youtube.com/watch?v=7AaejeFJ5-U)
 
-2.   youtube.com/watch?v=XqORLv7bJYw
+2.   [youtube.com/watch?v=XqORLv7bJYw](youtube.com/watch?v=XqORLv7bJYw)
 
 4.      
 Ders: Kimya – Zeynep Someren
