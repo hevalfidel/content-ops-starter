@@ -1,6 +1,6 @@
 ---
 title: Cuma
-slug: five-tips-for-starting-a-startup
+slug: cuma
 date: '2023-03-05'
 excerpt: ''
 featuredImage:
