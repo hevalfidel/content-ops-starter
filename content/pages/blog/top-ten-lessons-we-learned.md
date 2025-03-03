@@ -2,7 +2,7 @@
 title: Pazartesi
 slug: top-ten-lessons-we-learned
 date: '2025-01-02'
-excerpt: '3. Ders: Sinem, 2 adet video:'
+excerpt: ''
 featuredImage:
   url: /images/abstract-feature2.svg
   altText: Thumbnail
