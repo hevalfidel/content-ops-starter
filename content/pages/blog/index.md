@@ -5,7 +5,7 @@ numOfPostsPerPage: 8
 enableSearch: true
 topSections:
   - title:
-      text: Pazartesi
+      text: 1 haftalık eksik
       color: text-dark
       type: TitleBlock
     subtitle: ''
