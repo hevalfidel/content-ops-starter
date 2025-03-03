@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Çarşamba
-slug: track-the-right-analytics-for-your-business
+slug: carsamba
 date: '2023-03-07'
 excerpt: ''
 featuredImage:
