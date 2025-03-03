@@ -2,7 +2,7 @@
 type: PostLayout
 title: Cuma
 slug: track-the-right-analytics-for-your-business
-date: '2023-03-06'
+date: '2023-03-07'
 excerpt: ''
 featuredImage:
   altText: Thumbnail
