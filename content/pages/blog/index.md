@@ -8,7 +8,7 @@ topSections:
       text: Pazartesi
       color: text-dark
       type: TitleBlock
-    subtitle: Program
+    subtitle: ''
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
