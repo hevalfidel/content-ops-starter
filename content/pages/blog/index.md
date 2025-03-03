@@ -8,7 +8,7 @@ topSections:
       text: Pazartesi
       color: text-dark
       type: TitleBlock
-    subtitle: '1. ders: Beden'
+    subtitle: Program
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
