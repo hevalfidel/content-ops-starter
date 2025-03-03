@@ -1,7 +1,7 @@
 ---
 title: Perşembe
 slug: persembe
-date: '2023-03-01'
+date: '2023-03-06'
 excerpt: ''
 featuredImage:
   altText: Thumbnail
