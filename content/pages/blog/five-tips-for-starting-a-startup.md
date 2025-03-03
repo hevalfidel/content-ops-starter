@@ -1,7 +1,7 @@
 ---
 title: Çarşamba
 slug: five-tips-for-starting-a-startup
-date: '2023-03-07'
+date: '2023-03-05'
 excerpt: ''
 featuredImage:
   altText: Thumbnail
