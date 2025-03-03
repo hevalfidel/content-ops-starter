@@ -1,6 +1,6 @@
 ---
 title: Salı
-slug: life-of-our-development-team
+slug: pazartesi
 date: '2025-03-04'
 excerpt: ''
 featuredImage:
