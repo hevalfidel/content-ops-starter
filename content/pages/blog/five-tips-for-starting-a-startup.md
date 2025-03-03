@@ -1,5 +1,5 @@
 ---
-title: Cuma
+title: Çarşamba
 slug: five-tips-for-starting-a-startup
 date: '2023-03-07'
 excerpt: ''
