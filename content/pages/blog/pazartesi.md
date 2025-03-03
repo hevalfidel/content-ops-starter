@@ -1,5 +1,5 @@
 ---
-title: Salı
+title: Pazartesi
 slug: pazartesi
 date: '2025-03-04'
 excerpt: ''
