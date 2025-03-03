@@ -1,7 +1,7 @@
 ---
 title: Pazartesi
 slug: pazartesi
-date: '2025-03-04'
+date: '2025-03-03'
 excerpt: ''
 featuredImage:
   altText: Thumbnail
