@@ -1,6 +1,6 @@
 ---
 title: Perşembe
-slug: top-twenty-ways-to-save-time
+slug: persembe
 date: '2023-03-06'
 excerpt: ''
 featuredImage:
