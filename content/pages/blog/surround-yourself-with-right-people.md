@@ -1,5 +1,5 @@
 ---
-title: Çarşamba
+title: Salı
 slug: surround-yourself-with-right-people
 date: '2024-03-05'
 excerpt: ''
