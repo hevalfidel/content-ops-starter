@@ -55,7 +55,9 @@ Fasikülden ilerledik.
 6.      
 Ders: Türkçe – Hayriye Tarancı
 
-Kitaptan metin okuduk ve sohbet ettik. Metnin sonuna kadar geldik sonrasını okumadık.
+Kitaptan metin okuduk ve sohbet ettik. Metnin sonuna kadar geldik sonrasını okumadık. (classroom'a katıl kod: zzagumw)
+
+14 Mart 'a kadar olan bir ödev var podcast hazırlayacaksın rüzgârı dizginleyen çocuk ile ilgili böyle durumlarda ne yapardın çözümün ne olurdu gibi bir şeydi galiba (hoca daha ödevi yüklememiş yükler yakın zamanda orada daha iyi yazıyordur)
 
 ![](/images/WhatsApp%20Image%202025-03-03%20at%2022.15.56.jpeg)
 
