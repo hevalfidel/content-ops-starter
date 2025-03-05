@@ -30,13 +30,12 @@ Ders: Türkçe – Hayriye Tarancı
 
 ![](/images/WhatsApp%20Image%202025-03-05%20at%2022.05.30%20\(2\).jpeg)
 
-
-
 3.      
 Ders: Fransızca – Sinem Güvenir
 
-![](/images/WhatsApp%20Image%202025-03-05%20at%2022.05.30.jpeg)
+(son iki egzersizi sadece konuştuk)
 
+![](/images/WhatsApp%20Image%202025-03-05%20at%2022.05.30.jpeg)
 
 ![](/images/WhatsApp%20Image%202025-03-05%20at%2022.05.29%20\(3\).jpeg)
 
@@ -45,25 +44,33 @@ Ders: Fransızca – Sinem Güvenir
 4.      
 Ders: Matematik – Seden Kağıtçıoğlu
 
-
 ![](/images/WhatsApp%20Image%202025-03-05%20at%2022.05.29%20\(1\).jpeg)
 
+\+ Performans
 
+![](/images/WhatsApp%20Image%202025-03-05%20at%2022.05.13%20\(2\).jpeg)
+
+![](/images/WhatsApp%20Image%202025-03-05%20at%2022.05.13%20\(1\).jpeg)
+
+\+ Türkçesi
+
+![](/images/matematik_9_2-1.jpg)
 
 5.      
 Ders: İngilizce – Marianna Kartelli
 
 ?
 
-
 6.      
 Ders: Coğrafya – Ebru Paykoç
 
+(hoca sunumdan anlattı not aldırmadı ama bu bölümleri anlattı)
 
 ![](/images/WhatsApp%20Image%202025-03-05%20at%2022.05.29.jpeg)
 
-![](/images/WhatsApp%20Image%202025-03-05%20at%2022.05.19.jpeg)
+Bu yeni fotokopi bu sayfanın hepsini okudu hoca.
 
+![](/images/WhatsApp%20Image%202025-03-05%20at%2022.05.19.jpeg)
 
 7.      
 Ders: Biyoloji – Gülçin Okay
@@ -71,7 +78,6 @@ Ders: Biyoloji – Gülçin Okay
 ![](/images/WhatsApp%20Image%202025-03-05%20at%2022.05.13.jpeg)
 
 ![](/images/WhatsApp%20Image%202025-03-05%20at%2022.05.12.jpeg)
-
 
 \+ Classroom'daki ödev.  Diğer ödev de var.
 
@@ -88,9 +94,4 @@ Ders: Din – Vedat Genç
 
 \-
 
-
-
  
-
-
-
